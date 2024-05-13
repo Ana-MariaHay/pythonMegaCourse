@@ -1,1 +1,2 @@
+install the pyinstaller package
 pyinstaller --onefile --windowed --clean gui.py
